@@ -6,10 +6,8 @@
 [Ll]ogs/
 [Uu]serSettings/
 
-
 Packages/com.unity.package-manager/
 Library/PackageCache/
-
 
 *.csproj
 *.sln
@@ -19,3 +17,6 @@ Library/PackageCache/
 *.svd
 *.opendb
 *.VC.db
+
+/Temp/
+Temp/

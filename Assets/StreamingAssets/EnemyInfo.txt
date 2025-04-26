@@ -1,0 +1,5 @@
+health= 100
+hunger= 26
+level= 2
+positionX= 4,786687
+positionY= 3,709564
